@@ -1,0 +1,1 @@
+Trying to stage and commit using only terminal in vsc code
